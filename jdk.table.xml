@@ -1,0 +1,124 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.6.9 (/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6)" />
+      <type value="Python SDK" />
+      <version value="Python 2.6.9" />
+      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-dynload" />
+            <root type="simple" url="file:///Library/Python/2.6/site-packages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/661428859" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.6 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pyfasta-0.4.5-py2.7.egg" />
+            <root type="simple" url="jar:///Library/Python/2.7/site-packages/ete2-2.1rev544-py2.7.egg!/" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/ipython-1.0.0_dev-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/matplotlib-1.4.x-py2.7-macosx-10.8-intel.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pandas-0.12.0_80_gfcaf9a6_20130729-py2.7-macosx-10.8-intel.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pymc-2.2-py2.7-macosx-10.8-intel.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/statsmodels-0.5.0-py2.7-macosx-10.8-intel.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/readline-6.2.4.1-py2.7-macosx-10.7-intel.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/nose-1.3.0-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/six-1.3.0-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pyparsing-1.5.7-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pytz-2013b-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/tornado-3.1-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pyzmq-13.1.0-py2.7-macosx-10.6-intel.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pika-0.9.13-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/Jinja2-2.7-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/patsy-0.1.0-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/HTSeq-0.5.4p5-py2.7-macosx-10.9-intel.egg" />
+            <root type="simple" url="jar:///Library/Python/2.7/site-packages/MACS-1.4.2-py2.7.egg!/" />
+            <root type="simple" url="jar:///Library/Python/2.7/site-packages/setuptools-12.0.1-py2.7.egg!/" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-2125986627" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/bin/python3.6)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1645354321" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (~/anaconda/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/anaconda/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.6/site-packages/Sphinx-1.5.6-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.6/site-packages/aeosa" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-750860269" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
